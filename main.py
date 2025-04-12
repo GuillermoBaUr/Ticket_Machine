@@ -6,6 +6,7 @@ loads background images, screen, and buttons, and starts the main loop.
 
 Functions:
 main(): Initializes and runs the ticket machine application.
+My first commit
 """
 
 from tkinter import *
