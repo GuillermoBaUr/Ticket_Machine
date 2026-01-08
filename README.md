@@ -14,24 +14,22 @@ The ticket machine application initializes and sets up the main window, loads ba
 - `buttons.py`: Module responsible for creating the application buttons.
 - `turns.py`: Module responsible for handling the turns algorithm for each button.
 
-## Installation
+## Features
+- **Interactive UI**: Simple and intuitive interface for ticket selection.
+- **Turn Management**: Implements an algorithm to handle turns for multiple buttons.
+- **Image-based Design**: Uses background images and styled buttons for a better user experience.
+- **Modular Architecture**: Separate components for screen, buttons, image loading, and turn logic.
+- **Lightweight**: Runs efficiently on standard Python environments.
 
-1. Clone this repository:
-```bash
-git clone https://github.com/GuillermoBaUr/Ticket_Machine
-```
-3. Run the application:
-```bash
-python main.py
-```
 ## Video Demonstration
 
 Watch the video demonstration of the application, titled "Ticket Machine Functionality," [here](https://youtu.be/OD26yUGbAiE).
 
-
-## Usage
-Run the main.py file to start the application.
-Interact with the screen and buttons to use the ticket machine.
+## Technologies Used
+- **Language**: Python
+- **UI Framework**: Tkinter
+- **Concepts**: Event-driven programming, modular design
+- **Assets**: Image-based UI elements
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
