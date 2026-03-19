@@ -6,6 +6,20 @@ This repository contains the source code for a ticket machine application develo
 
 The ticket machine application initializes and sets up the main window, loads background images, creates the screen and buttons, and runs the main loop.
 
+## 📸 Media
+
+<p align="center">
+  <img src="img/kiosk-developed.png" width="520" />
+</p
+
+Watch the video demonstration of the application, titled "Ticket Machine Functionality," [here](https://youtu.be/OD26yUGbAiE).
+
+## Technologies Used
+- **Language**: Python
+- **UI Framework**: Tkinter
+- **Concepts**: Event-driven programming, modular design
+- **Assets**: Image-based UI elements
+
 ## Project Structure
 
 - `main.py`: This module initializes the ticket machine application, sets up the main window, loads background images, creates the screen and buttons, and starts the main loop.
@@ -21,15 +35,16 @@ The ticket machine application initializes and sets up the main window, loads ba
 - **Modular Architecture**: Separate components for screen, buttons, image loading, and turn logic.
 - **Lightweight**: Runs efficiently on standard Python environments.
 
-## Video Demonstration
+---
 
-Watch the video demonstration of the application, titled "Ticket Machine Functionality," [here](https://youtu.be/OD26yUGbAiE).
+## 📬 Contact
 
-## Technologies Used
-- **Language**: Python
-- **UI Framework**: Tkinter
-- **Concepts**: Event-driven programming, modular design
-- **Assets**: Image-based UI elements
+If you'd like to collaborate or have any questions:
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+📧 **badillouribeguillermoca@gmail.com**  
+🔗 **LinkedIn:** https://www.linkedin.com/in/guillermo-badillo-uribe-382301228/
+
+---
+
+## 📄 License
+This repository is licensed under the MIT License.
